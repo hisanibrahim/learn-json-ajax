@@ -1,0 +1,12 @@
+body #btn {
+    margin: 25;
+    padding: 10px;
+    font-family: monospace;
+    background-color: firebrick;
+    color:floralwhite;
+    border: none;
+}
+.hide-me {
+    animation-delay: 1s;
+    display: none;
+}
